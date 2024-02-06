@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1671633089 source:c:\users\theon\onedrive\desktop\project ip\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
+1673298752 source:c:\users\theon\onedrive\desktop\project ip - copy\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
+1673351829 source:c:\users\theon\onedrive\desktop\project final\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
+1673417105 source:c:\users\theon\onedrive\desktop\project morphing\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
